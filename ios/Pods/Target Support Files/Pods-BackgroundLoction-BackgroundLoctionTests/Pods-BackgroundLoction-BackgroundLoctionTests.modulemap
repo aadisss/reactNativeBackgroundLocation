@@ -1,0 +1,6 @@
+module Pods_BackgroundLoction_BackgroundLoctionTests {
+  umbrella header "Pods-BackgroundLoction-BackgroundLoctionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
